@@ -15,11 +15,18 @@
 </p>
 
 ## 🛠️ Tech stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,cpp,git,github" alt="Skills" />
-  </a>
-</p>
+
+**🎨 Frontend**<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" />
+
+**⚙️ Backend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
+
+**🧰 Technologies & Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github" alt="Technologies" />
+
+**📚 Others**<br>
+<img src="https://skillicons.dev/icons?i=cpp" alt="Others" /> &nbsp;*Data Structures & Algorithms in C++*
 
 ## 📊 GitHub stats
 <p align="left">
